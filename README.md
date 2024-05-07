@@ -1,5 +1,3 @@
-This is demo pipeline.
-Done by me.
-#1.
-Java.
-#############################
+This is first CI-CD pipeline demo for application.
+
+
