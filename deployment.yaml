@@ -14,7 +14,7 @@ spec:
       spec:
         containers:
         -  name: my-app
-            image: 
+            image: deshnishant/shopapp
             ports:
             - containerPort: 8080
             livenessProbe:
