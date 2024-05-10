@@ -10,7 +10,7 @@ public class HelloController {
 	@RequestMapping("/hello")
 	 
 	public String hello() {
-		return "Hello Java World with Spring Boot CI-CD pipeline"; 
+		return "Hello Java World with Spring Boot CI-CD pipeline & in JAVA language"; 
 	}
 	
 
